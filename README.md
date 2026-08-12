@@ -1,6 +1,8 @@
 # Set up the SonarQube Plugin for GitHub Copilot CLI
 
 > Last verified: May 2026
+>
+> Results, commands, plan requirements, and entitlements may differ by release, project, organization, and configuration. Check the linked current product documentation before applying these instructions to a live environment.
 
 ## TL;DR overview
 
